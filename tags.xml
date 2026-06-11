@@ -37,3 +37,8 @@
     </References>
   </UAVariable>
 </UANodeSet>
+
+
+
+<?xml version='1.0' encoding='utf-8'?>
+<Tags><Tag Name="Temperature" NodeId="ns=2;i=2" /><Tag Name="Counter" NodeId="ns=2;i=3" /></Tags>
